@@ -1,4 +1,4 @@
-Stackoverflow:-
+# Stackoverflow:-
 
 1's complement is simply bitwise NOT (that is 001 becomes 110), this ends up giving you two zeroes (111 and 000), so you need to take care when you're performing additions of numbers with different signs (and whenever you cross 0). It is, however, very simple to implement negation in hardware (it's a single parallel operation).
 
@@ -6,7 +6,7 @@ Stackoverflow:-
 
 The [ Two's complement page ]( https://en.wikipedia.org/wiki/Two's_complement ) contains the verbatim answer to you question: The two's-complement system has the advantage that the fundamental arithmetic operations of addition, subtraction, and multiplication are identical to those for unsigned binary numbers (as long as the inputs are represented in the same number of bits and any overflow beyond those bits is discarded from the result). This property makes the system both simpler to implement and capable of easily handling higher precision arithmetic.
 
-Geeksforgeeks:-
+# Geeksforgeeks:-
 [Reference](https://www.geeksforgeeks.org/difference-between-1s-complement-representation-and-2s-complement-representation-technique/)
 
 1’s complement of a binary number is another binary number obtained by toggling all bits in it, i.e., transforming the 0 bit to 1 and the 1 bit to 0.
