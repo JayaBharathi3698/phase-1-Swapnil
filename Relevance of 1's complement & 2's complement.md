@@ -8,6 +8,7 @@ The [ Two's complement page ]( https://en.wikipedia.org/wiki/Two's_complement ) 
 
 Geeksforgeeks:-
 [Reference](https://www.geeksforgeeks.org/difference-between-1s-complement-representation-and-2s-complement-representation-technique/)
+
 1’s complement of a binary number is another binary number obtained by toggling all bits in it, i.e., transforming the 0 bit to 1 and the 1 bit to 0.
 
 Examples:
