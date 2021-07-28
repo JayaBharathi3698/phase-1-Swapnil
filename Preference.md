@@ -1,4 +1,5 @@
-2's complement is prefered over 1's complement. Reason:-
+# 2's complement is prefered over 1's complement. 
+# Reason:-
 
 No overflow :1's Compilment has no special usage for negative integers.2's Compliment  makes sense because it can be used in natural addition and subtraction arithmetic without any need to change the bits. Providing that no overflow occurs, the sign bit of the result is just the right value.
 
