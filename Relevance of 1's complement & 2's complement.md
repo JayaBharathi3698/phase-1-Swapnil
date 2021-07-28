@@ -12,15 +12,22 @@ Geeksforgeeks:-
 
 
 Examples:
+
 Let numbers be stored using 4 bits
+
 1's complement of 7 (0111) is 8 (1000)
+
 1's complement of 12 (1100) is 3 (0011)
+
 2’s complement of a binary number is 1 added to the 1’s complement of the binary number.
 
 
 Examples:
+
 Let numbers be stored using 4 bits
+
 2's complement of 7 (0111) is 9 (1001)
+
 2's complement of 12 (1100) is 4 (0100)
 
 These representations are used for signed numbers.
