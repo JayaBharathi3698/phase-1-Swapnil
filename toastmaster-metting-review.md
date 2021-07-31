@@ -8,7 +8,7 @@ i) Prepared speech session : in this speaker was supposed to speak and end his s
 
 ii) Table topic session : in this random topic was given to randon person and he/she is supposed to speak for about 1-2 minutes.
 
-*additional event that was part of Table topic was Table turn code which was most interesting as in this ,speaker was supposed to speak on the topic for 2-3 min but the twist was when host show her hand then speaker was supposed to speak negative of which he/she was speaking.
+*additional event that was part of Table topic was Table turn code which was most interesting as in this ,speaker was supposed to speak on the topic for 2-3 min but the twist was when host show her hand then speaker was supposed to speak negative of which he/she was speaking.*
 
 iii) Evaluation session : Evaluators will evaluate and let the people know the positives, scopes of improvement, & some challenges within 2-3 minutes.
 
