@@ -1,6 +1,0 @@
-09 june 2021 :- Let's get started by reading README.md
-Learned about use and importance and use of git and git hub.
-28 July 0201 :- Advantage of hexadecimal system over any other system.
-Relevance of 1's and 2's complement.
-Day 1 :- Basic concept of C.
-Day 2 :- Recursion,
