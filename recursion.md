@@ -11,7 +11,7 @@ The more you solve the question the more you get the idea of when to use recursi
 
 Example :- 
 
-Q1- WAP to print first n natural numbers in ascending order.
+Q1- WAF to print first n natural numbers in ascending order.
 
 A-  
 
@@ -25,7 +25,7 @@ A-
     }
     
 
-Q2- WAP to print first n natural numbers in descending order.
+Q2- WAF to print first n natural numbers in descending order.
 
 A-  
     
