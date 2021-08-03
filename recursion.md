@@ -13,7 +13,7 @@ Example :-
 
 Q1- WAP to print first n natural numbers in ascending order.
 A-  f(int n)
-    {
+    {{
     if(n==0)
     return ;
     
@@ -24,7 +24,7 @@ A-  f(int n)
 
 Q2- WAP to print first n natural numbers in descending order.
 A-  f(int n)
-    {
+    {{
     if(n==0)
     return ;
     
