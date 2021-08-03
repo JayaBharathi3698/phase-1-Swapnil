@@ -1,3 +1,1 @@
-**Research about Open-source**
-
-[visit](https://opensource.guide/)
+**LET US C**
