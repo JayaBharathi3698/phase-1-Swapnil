@@ -13,11 +13,11 @@ Example :-
 
 Q1- WAP to print first n natural numbers in ascending order.
 A-  f(int n)
-    {{
+    {
     if(n==0)
     return ;
     
-    f(n-1);
+   f(n-1);
     printf("%d",n);
     }
     
@@ -28,6 +28,6 @@ A-  f(int n)
     if(n==0)
     return ;
     
-    printf("%d",n);
+   printf("%d",n);
     f(n-1);
     }
