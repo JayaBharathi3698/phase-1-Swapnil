@@ -8,3 +8,26 @@ This can be explained with a very under rated concept of MATHEMATICS , Principle
 
 Starting the process in quiet easy but we have to know when it necassary to stop recursion beacuse it is a never ending process so,this will come with intuition as well as practice .
 The more you solve the question the more you get the idea of when to use recursion.
+
+Example :- 
+
+Q1- WAP to print first n natural numbers in ascending order.
+A-  f(int n)
+    {
+    if(n==0)
+    return ;
+    
+    f(n-1);
+    printf("%d",n);
+    }
+    
+
+Q2- WAP to print first n natural numbers in descending order.
+A-  f(int n)
+    {
+    if(n==0)
+    return ;
+    
+    printf("%d",n);
+    f(n-1);
+    }
