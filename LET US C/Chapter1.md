@@ -30,7 +30,7 @@ ii) Secondary Constants :-
     
 ## Variables
 
-Variables are some combination of alphabets whic stores some values in ram and its values can be changed whenever we want .
+Variables are some combination of alphabets which stores some values in memory and its values can be changed whenever we want .
 
 ### Declaration of variable :- 
  
