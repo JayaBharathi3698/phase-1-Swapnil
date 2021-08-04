@@ -9,6 +9,7 @@ Constants are those valuse whose value can not be changed i.e its value s fixed,
 ### Declaration of constants
 
    a) const int x=10;
+   
    b) const float pi=3.14;
 
 **TYPES OF C CONSTANTS.**
@@ -34,5 +35,32 @@ Variables are some combination of alphabets whic stores some values in ram and i
 ### Declaration of variable :- 
  
  a) int x;
+ 
  b) float y;
+ 
  c) char ch;
+ 
+## Comments :- 
+
+This is something that is ignored by the compiler and it is used to explain the purpose of writing that piece of code also for future reference.
+
+**Types of comments**
+
+ ***a) Inline comments :-***
+ 
+ This type comment is used to just add one line as a comment . 
+ 
+ ### Syntax :-
+ 
+ int x; // declataion of new variable x "//":- symbol of comment.
+ 
+ ***b) Multiline comments***
+ 
+ This is used to comment more than one line.
+ 
+ ### Syntax :-
+ 
+ /*            
+      ...
+               */
+               
