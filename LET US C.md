@@ -1,4 +1,4 @@
-#LET US C
+# LET US C
 
 As soon as C language was designed it replaced other computer language as it was easy to understand also it works wast more faster than the other language.
 
