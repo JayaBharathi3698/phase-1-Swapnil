@@ -65,3 +65,10 @@ This is something that is ignored by the compiler and it is used to explain the 
              
   */
                
+## Keywords :- 
+
+Keywords are those part of program whic have pre defined meaning. It may ro maynot be used as variable or identifier.
+
+***Example:-***
+
+int,float,char,long ,double,signed, unsigned,return,etc.
