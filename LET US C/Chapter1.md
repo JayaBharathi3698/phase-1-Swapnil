@@ -6,6 +6,11 @@ As soon as C language was designed it replaced other computer language as it was
 
 Constants are those valuse whose value can not be changed i.e its value s fixed, and const is added before the data type.
 
+### Declaration of constants
+
+   a) const int x=10;
+   b) const float pi=3.14;
+
 **TYPES OF C CONSTANTS.**
 
 i) Primary Constants :- 
@@ -24,5 +29,10 @@ ii) Secondary Constants :-
     
 ## Variables
 
-Variables are some combination of alphabets whic sotres some values in ram and its values can be changed whenever we want .
+Variables are some combination of alphabets whic stores some values in ram and its values can be changed whenever we want .
 
+### Declaration of variable :- 
+ 
+ a) int x;
+ b) float y;
+ c) char ch;
