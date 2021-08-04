@@ -1,4 +1,4 @@
-Things that i learned form movie THE FOUNDER .
+Things that i learned form movie **THE FOUNDER**.
 
 1) Selecting right person is must, otherwise you itself will regret on your decision.
  
