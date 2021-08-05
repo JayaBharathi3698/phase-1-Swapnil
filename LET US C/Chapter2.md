@@ -48,3 +48,7 @@ It is similar to that of if else statement . Just its denotation is a bit differ
 (x>y)?(printf("x is greater");):(printf("y is greater");)
 
 **Nested conditional statement**
+
+***Syntax:-***
+(a,b)?(c?d:e):(f?g:h)
+
