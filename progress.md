@@ -2,9 +2,9 @@
 
 Learned about use and importance and use of git and git hub.
 
-28 July 2021 :- Advantage of [hexadecimal system](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/hexadecimal.md) over any other system.
+28 July 2021 :- Advantage of [hexadecimal system](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/hexadecimal.md) over any other system.
 
-[Relevance of 1's and 2's complement.](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Relevance%20of%201's%20complement%20%26%202's%20complement.md)
+[Relevance of 1's and 2's complement.](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Relevance%20of%201's%20complement%20%26%202's%20complement.md)
 
 Day 1 :- Basics of Let Us C   [CHAPTER-1](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter1.md)
 
