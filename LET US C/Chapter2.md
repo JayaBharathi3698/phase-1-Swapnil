@@ -45,11 +45,11 @@ It is similar to that of if else statement . Just its denotation is a bit differ
 
 **Syntax**
 
-(x>y)?(printf("x is greater");):(printf("y is greater");)
+(x>y?printf("x is greater"):printf("y is greater"))
 
-**Conditional statement ladder**
+**Nested Conditional statement**
 
 ***Syntax:-***
 
-(a,b)?(c?d:e):(f?g:h)
+(a>b?(c?d:e):(f?g:h))
 
