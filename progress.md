@@ -8,4 +8,4 @@ Learned about use and importance and use of git and git hub.
 
 Day 1 :- Basics of Let Us C   [CHAPTER-1](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter1.md)
 
-Day 2 :- [Recursion](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/recursion.md) , 
+Day 2 :- [Recursion](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/recursion.md) , [CHAPTER-2](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter2.md)
