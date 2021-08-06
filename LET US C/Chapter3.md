@@ -21,10 +21,15 @@ iii. Do-while statement
 ***Syntax:***
 
  while(condition)
+ 
  {
-    statements;
-    increment/decrement;
+ 
+   statements;
+    
+   increment/decrement;
+   
  }
+ 
 As long as the condition is true all the statements will be executed repeatedly. If the condition is false, the control passes to the rest of the program after the while loop.
 
 We must use a condition that will eventually turn out to be false, otherwise the loop will be executed forever, indefinitely.
@@ -36,9 +41,13 @@ The increment (++) or the decrement (--) operators can be used. Compound assignm
 ***Syntax:***
 
   for (initialization; condition; increment/decrement)
-    {
-     statements;
-    }
+  
+   {
+    
+   statements;
+     
+   }
+   
 The for loop specifies that we can initialize, check the condition, increment/decrement the value of the variable in a single line. Semicolons are used to separate them.
 
 ### Steps in which the for loop is executed:
@@ -71,9 +80,13 @@ The continue keyword allows us to pass the control to the start of the loop, byp
 ***Syntax:***
 
  do
+ 
    {
-       statements;
-    }
+   
+   statements;
+       
+   }
+    
  while(condition);
  
 The difference between while and do -while loop is that the way of execution. The while loop checks the condition first and then, executes the statements whereas the do-while loop checks the condition after the statements are executed. This means that the do-while will execute the statements at-least once.
