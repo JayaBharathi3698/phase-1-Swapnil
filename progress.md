@@ -15,6 +15,9 @@ Day 2 :- [Recursion](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/mai
 
 Day 3 :- [CHAPTER-3 (Loops)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter3.md)
 
-Day 4 :- [CHAPTER-4 (Switch case)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter4.md)
+Day 4 :- [CHAPTER-4 (Switch case)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter4.md), 
+
+[Movie review (The Founder)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Movie_review/The%20Founder.md)
+---------------------------------------------------------------------------------------
 
 Day 5 :- [CHAPTER-5 (Functions & Points)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter5.md)
