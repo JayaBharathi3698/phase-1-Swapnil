@@ -16,5 +16,5 @@ Hexadecimal numbers are also used to enhance the security of a website. Many dev
 With 2 hexadecimal digits, we can express any number from 0 to 255. To do the same in binary, we need 8 digits.
 
 
-*Answery by site worldsuppoter satisfys the most.*
+*Answer by site worldsuppoter satisfys the most.*
 
