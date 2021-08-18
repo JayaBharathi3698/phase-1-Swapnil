@@ -9,7 +9,7 @@ Then after finishing the speech there was a Q&A session where some wonderful que
 
 Then 2nd speaker Remya Nath spoke , there she explained aout her past experience ,before and after the joining of the toastmasters club. After that Table Topic session took place which was really beautiful as speaker were fluent in delievering their speech which was short and it had meaning it , due to shortage of time President decided to end this amazing session.
 
-Below i have attached some of picture of the meeting.
+Below i have attached some of picture of the meeting :-
 
 ![meeting pic ](https://user-images.githubusercontent.com/85029234/129941601-ab655517-f46b-49db-a474-4e242e2a8401.jpg)
 
