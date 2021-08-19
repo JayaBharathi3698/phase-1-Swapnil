@@ -34,6 +34,6 @@ Day 5 :- [CHAPTER-5 (Functions & Points)](https://github.com/cleanhand/phase-1-S
 
 ------------------------------------------------------------------------------------------------------------
 
-Read about [Open Source](https://opensource.guide/).
+Day 6 :- Read about [Open Source](https://opensource.guide/).
 
------------------------------------
+------------------------------------
