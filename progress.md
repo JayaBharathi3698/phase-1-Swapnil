@@ -33,3 +33,7 @@ Movie review [(The Founder)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/
 Day 5 :- [CHAPTER-5 (Functions & Points)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter5.md)
 
 ------------------------------------------------------------------------------------------------------------
+
+Read about [Open Source](https://opensource.guide/).
+
+-----------------------------------
