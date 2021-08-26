@@ -37,3 +37,13 @@
 👉 Day 6 :- Read about [Open Source](https://opensource.guide/).
 
 ------------------------------------
+
+👉 Day 7 :- Attended meeting at [Dell technologies](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Meetings/Dell_Technologies_session.md) , learned about being assertive and documented my experience.
+
+------------------------------------------------------------------------
+
+👉 Day 8 :- Studied about [MITACS](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/Mitacs.md)
+
+----------------------------------------------------------------
+
+👉 Day 9 :- [Agile Metholodogy Scrum](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Agile_methodology.md)
