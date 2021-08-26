@@ -9,3 +9,5 @@ Mitacs is a nonprofit national research organization that, in partnerships with 
 For details on eligible candidate [click here](https://globalink.mitacs.ca/#/student/application/welcome)
 
 [Link](https://globalink.mitacs.ca/#/student/application/student-registration) To Apply For Internship .
+
+*Most important NIT AGARTALA is not in the participating institution.*
