@@ -1,3 +1,5 @@
+# 🌟 Toastmaster Meeting 🧨
+
 The meeting was well organised by those group of people, some members were given specific tasks/roles to perform and monitor ,the performance of each individual speaker .
 
 **Roles will be mentioned in other documentation**
@@ -13,6 +15,8 @@ ii) Table topic session : in this random topic was given to randon person and he
 iii) Evaluation session : Evaluators will evaluate and let the people know the positives, scopes of improvement, & some challenges within 2-3 minutes.
 
 # At the meeting session :- 
+
+
 
 At the beginning , the host intruduced to all the participants ,along with the role of each and every members which was way more different than those meetings that i have attended. The theme/topic of meeting was :- Life is a Pole of 50-50 chance, and slogan was :- shot in the dark meaning "a wild guess"
 So our 1st speaker was none other than Ankit sir, it was quiet amazing to know more about his past days and the fact that he left his full time job and started teqaching as full time . 
