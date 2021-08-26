@@ -10,4 +10,4 @@ For details on eligible candidate [click here](https://globalink.mitacs.ca/#/stu
 
 [Link](https://globalink.mitacs.ca/#/student/application/student-registration) To Apply For Internship .
 
-*Most important NIT AGARTALA is not in the participating institution.*
+## Most important NIT AGARTALA is not in the participating institution.
