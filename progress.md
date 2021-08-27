@@ -50,6 +50,8 @@
 
 ---------------------------------------------------------------------
 
-👉 Day 10 :- [Modular Programming](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Modular_prgramming.md)
+👉 Day 10 :- [Modular Programming](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Modular_prgramming.md),
+
+🛰️ Learned a bit about [APP Dynamics](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/APP_Dynamics.md)
 
 ---------------------------------------------------------------------
