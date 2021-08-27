@@ -47,3 +47,9 @@
 ----------------------------------------------------------------
 
 👉 Day 9 :- [Agile Metholodogy Scrum](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Agile_methodology.md)
+
+---------------------------------------------------------------------
+
+👉 Day 10 :- [Modular Programming](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Modular_prgramming.md)
+
+---------------------------------------------------------------------
