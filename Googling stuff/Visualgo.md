@@ -16,6 +16,6 @@ It is an amazing site which can be used to learn sorting of elements of array , 
  
  vii) Radix Sorting 
  
- For each type of sorting , code is written there.
+⭐ For each type of sorting , code is written there.
  
- First try to understand how sorting is taking place without watching the code ,when you fail to understand after 5 - 6 times then only watch the code.
+🌟 First try to understand how sorting is taking place without watching the code ,when you fail to understand after 5 - 6 times then only watch the code.
