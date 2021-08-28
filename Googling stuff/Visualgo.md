@@ -2,7 +2,7 @@
 
 It is an amazing site which can be used to learn sorting of elements of array , by different methods .
 
- i) [Bubble Sorting](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/edit/main/sorting/bubble_sorting.md) 
+ i) [Bubble Sorting](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/sorting/bubble_sorting.md) 
  
  ii) Selection Sorting
  
