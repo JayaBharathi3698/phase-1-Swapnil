@@ -58,10 +58,12 @@
 
 👉 Day 11 :- Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Visualgo.md)
   
-  Attended 4th Algomagnet meeting.
+ 😁  Attended 4th Algomagnet meeting.
   
 ---------------------------------------------------------------------
 
 👉 Day 12 :- [Yuval Noah Harari TED Talks](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Informative_videos/TED_Talk_Yuval_Noah_Harari.md)
 
-[MEXT SCHOLARSHIP](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/MEXT.md)
+ •[MEXT SCHOLARSHIP](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/MEXT.md)
+
+------------------------------------------
