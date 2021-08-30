@@ -63,3 +63,5 @@
 ---------------------------------------------------------------------
 
 👉 Day 12 :- [Yuval Noah Harari TED Talks](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Informative_videos/TED_Talk_Yuval_Noah_Harari.md)
+
+[MEXT SCHOLARSHIP](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/MEXT.md)
