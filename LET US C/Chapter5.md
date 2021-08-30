@@ -23,6 +23,7 @@ math.h :- sin(x),pow(a,b),etc
 Functions that are defined/created by user or the programmer to use it in code multiple time, it is simply used by function calling.
 
 Function calling are of two type :- 
+   
     1) Call by value
     2) Call by reference 
     
