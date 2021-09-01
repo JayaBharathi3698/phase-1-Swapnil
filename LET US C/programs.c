@@ -26,7 +26,7 @@ void main()
 	  printf("sum of number is = %d",temp);
 }
 
----------------------
+----------------------------------------------------------
 
 Q2 :- WAP to merge 2 given array by using 3rd array.
 	
