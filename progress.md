@@ -97,3 +97,7 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
   * [DAAD internship programme](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/DAAD.md)
 
  ------------------------------------------
+ 
+ ## 👉 Day 13 :- 
+ 
+ [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Dennis%20Ritchie.md)
