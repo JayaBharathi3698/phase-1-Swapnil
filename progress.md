@@ -100,7 +100,7 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
  
  ## 👉 Day 13 :- 
  
- [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Dennis%20Ritchie.md)
+ [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Computer_Scientist/Dennis%20Ritchie.md)
  
  * 5th Algomagnet session.
 
