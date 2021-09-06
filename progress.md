@@ -52,6 +52,8 @@ Basics of Let Us C   [CHAPTER-1](https://github.com/cleanhand/phase-1-SWAPNIL-7-
 
 Read about [Open Source](https://opensource.guide/).
 
+ 😁  Attended 4th Algomagnet meeting.
+
 ------------------------------------
 
 ## 👉 Day 7 :-
@@ -83,9 +85,7 @@ Studied about [MITACS](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/m
 ## 👉 Day 11 :-
 
 Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Visualgo.md)
-  
- 😁  Attended 4th Algomagnet meeting.
-  
+   
 ---------------------------------------------------------------------
 
 ## 👉 Day 12 :-
@@ -101,3 +101,7 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
  ## 👉 Day 13 :- 
  
  [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Dennis%20Ritchie.md)
+ 
+ * 5th Algomagnet session.
+
+----------------------------------------------------------------------
