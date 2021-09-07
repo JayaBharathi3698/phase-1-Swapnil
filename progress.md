@@ -100,7 +100,7 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
  
  ## 👉 Day 13 :- 
  
- [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Computer_Scientist/Dennis%20Ritchie.md)
+ * [Dennis Ritchie](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Computer_Scientist/Dennis%20Ritchie.md)
  
  * 5th Algomagnet session.
 
@@ -110,5 +110,6 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
 
 * Difference between [pointer and pointer variable](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Ptr%26ptr_variable.md)
 * Difference between [int* *i; and int* *i;](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Pointer.md)
+* [Selection Sorting](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/sorting/Selection_sorting.md) 👩‍👩‍👧‍👦
 
 -------------------------------------------------------------------
