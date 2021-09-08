@@ -107,7 +107,7 @@ Tried to understand Sorting with [Visualgo](https://github.com/cleanhand/phase-1
 ----------------------------------------------------------------------
 
 ## 👉 Day 14 :- 
-
+* [Dereferencing of pointer](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Deferencing_of_pointer.md)
 * Difference between [pointer and pointer variable](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Ptr%26ptr_variable.md)
 * Difference between [int* *i; and int* *i;](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Pointer.md)
 * [Selection Sorting](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/sorting/Selection_sorting.md) 👩‍👩‍👧‍👦
