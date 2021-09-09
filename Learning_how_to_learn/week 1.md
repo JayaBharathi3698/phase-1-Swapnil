@@ -1,4 +1,4 @@
-#🧨  Week1
+# 🧨  Week1
 
 ## Summary of week 1 😎
 
