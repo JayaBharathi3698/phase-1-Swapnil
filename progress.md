@@ -113,3 +113,6 @@
 * [Selection Sorting](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/sorting/Selection_sorting.md) 👩‍👩‍👧‍👦
 
 -------------------------------------------------------------------
+
+## 👉 Day 15 :- 
+* Learning how to learn [week 1](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Learning_how_to_learn/week%201.md)
