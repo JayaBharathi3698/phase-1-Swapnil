@@ -116,3 +116,9 @@
 
 ## 👉 Day 15 :- 
 * Learning how to learn [week 1](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Learning_how_to_learn/week%201.md)
+
+-----------------------------------------------------------
+## 👉 Day 18 :- 
+* [Alan Turing](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Computer_Scientist/ALAN_TURING.md)
+
+----------------------------------------------------------------------------------
