@@ -122,3 +122,7 @@
 * [Alan Turing](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Computer_Scientist/ALAN_TURING.md)
 
 ----------------------------------------------------------------------------------
+## 👉 Day 19 :- 
+* [Charpak_scholarship](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/Charpak_Scholarship.md)
+
+------------------------------------------------------------------
