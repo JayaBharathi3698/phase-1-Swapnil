@@ -127,3 +127,7 @@
 * [EPFL Research Internship Program](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/EPFL_Research_Internship_Program.md)
 
 ------------------------------------------------------------------
+## 👉 Day 20 :- 
+* [TONY HOARE](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Computer_Scientist/TONY_HOARE.md)
+
+------------------------------------------------------------
