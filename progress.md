@@ -125,6 +125,8 @@
 ## 👉 Day 19 :- 
 * [Charpak_scholarship](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/Charpak_Scholarship.md)
 * [EPFL Research Internship Program](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Internship/EPFL_Research_Internship_Program.md)
+* [About Issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/creating-an-issue)
+* [Quick Start](https://docs.github.com/en/get-started)
 
 ------------------------------------------------------------------
 ## 👉 Day 20 :- 
