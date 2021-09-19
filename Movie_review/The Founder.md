@@ -1,3 +1,10 @@
+# The Founder 
+![image](https://user-images.githubusercontent.com/85029234/133917661-f0a95044-a886-48b2-b6bc-a163123f0009.png) ![image](https://user-images.githubusercontent.com/85029234/133917685-dd9162e9-448e-45be-864e-0f4110ff7ba1.png) ![image](https://user-images.githubusercontent.com/85029234/133917725-9b21b7d5-a076-48b3-bb2c-0c5238465883.png)
+
+
+
+**This movie was based on Donalds brother , who created fast food system for the first time . Ray Kroc worked with them and by using their idea he created very large franchise.**
+
 Things that i learned form movie **THE FOUNDER**.
 
 1) Selecting right person is must, otherwise you itself will regret on your decision.
