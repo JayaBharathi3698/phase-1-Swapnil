@@ -1,4 +1,8 @@
 # [TONY HOARE](https://en.wikipedia.org/wiki/Tony_Hoare) 🤵
+![image](https://user-images.githubusercontent.com/85029234/133923424-cc72780f-3ebd-4be1-bfea-340cec42beb0.png) ![image](https://user-images.githubusercontent.com/85029234/133923457-e591a8db-c360-4a9e-ad5e-f5072e341b1c.png)
+
+
+
 
 Charles Antony Richard Hoare FRS FREng[3] (born 11 January 1934)[4] is a British computer scientist. He developed the sorting algorithm quicksort in 1959–1960.[5] He also developed Hoare logic for verifying program correctness, and the formal language communicating sequential processes (CSP) to specify the interactions of concurrent processes (including the dining philosophers problem) and the inspiration for the programming language occam.
 He was elected as a member of the National Academy of Engineering in 2006 for fundamental contributions to computer science in the areas of algorithms, operating systems, and programming languages.
