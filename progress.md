@@ -154,6 +154,6 @@
 
 ## Day 23 :- 
 * [Pointer Arithemetic](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Pointer_Arithemetic.md)
-* 
+* learning from movie [Steve Jobs](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/Steve_Jobs.md)
 
 ------------------------------------------------------
