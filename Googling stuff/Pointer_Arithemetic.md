@@ -32,3 +32,5 @@ Eg:-
     s=&z;
     s=s-8;
     printf("new value of pointer address is %d",s);
+
+[Reference](https://www.javatpoint.com/pointer-arithmetic-in-c)
