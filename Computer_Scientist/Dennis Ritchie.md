@@ -1,4 +1,7 @@
-## Dennis Ritchie
+# Dennis Ritchie
+ ![image](https://user-images.githubusercontent.com/85029234/133923544-ce5ebf6d-38cf-493a-999d-4f333e65cb1f.png)  ![image](https://user-images.githubusercontent.com/85029234/133923561-3a8bdb72-3f69-44ab-a0e4-d1e6d72d36ee.png)
+
+
 
 Dennis MacAlistair Ritchie  was an American computer scientist. He created the C programming language and, with long-time colleague Ken Thompson, the Unix operating system and B programming language. Ritchie and Thompson were awarded the Turing Award from the ACM in 1983, the Hamming Medal from the IEEE in 1990 and the National Medal of Technology from President Bill Clinton in 1999. Ritchie was the head of Lucent Technologies System Software Research Department when he retired in 2007. He was the "R" in K&R C, and commonly known by his username dmr
 
