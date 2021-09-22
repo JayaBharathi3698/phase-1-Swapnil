@@ -65,3 +65,33 @@ void main()
 	}
     
 }
+
+Q3:- WAP to shift elements of array by one position to left.(without reversing the array)
+	
+#include<stdio.h>
+void main()
+{
+	int a[100];
+	int i,n;
+	int temp;
+	printf("enter no of element to be insterted\n");
+	scanf("%d",&n);
+	printf("enter elements in array");
+	for(i=0;i<n;i++)
+	{
+		scanf("%d",&a[i]);
+	}
+	
+	temp=a[0];
+	
+	for (i=0;i<n-1;i++)
+	{
+    	a[i]=a[i+1];
+	}
+	a[n-1]=temp;
+    
+	for(i=0;i<n;i++)
+		{
+			printf("%d  ",a[i]);
+		}
+}
