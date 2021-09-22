@@ -76,7 +76,7 @@ void main()
 	int temp;
 	printf("enter no of element to be insterted\n");
 	scanf("%d",&n);
-	printf("enter elements in array");
+	printf("enter elements in array\n");
 	for(i=0;i<n;i++)
 	{
 		scanf("%d",&a[i]);
