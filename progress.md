@@ -157,3 +157,15 @@
 * learning from movie [Steve Jobs](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/Steve_Jobs.md)
 
 ------------------------------------------------------
+
+## Day 24 :- 
+
+* Learnt about arrays declarationand passing values to an array.
+* Learned how to find Maximum and minimum in an array.
+
+-------------------------------------------
+
+## Day 25 :- 
+* Learned sorting of array by different methods.
+
+-------------------------------------------------
