@@ -160,8 +160,8 @@
 
 ## Day 24 :- 
 
-* Learnt about arrays declarationand passing values to an array.
-* Learned how to find Maximum and minimum in an array.
+* Learnt about [arrays declarationand passing values to an array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/array.c).
+* Learned how to find [Maximum and minimum in an array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/max_min_array.c).
 
 -------------------------------------------
 
