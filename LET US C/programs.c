@@ -5,7 +5,7 @@ void main()
 {
   	int a[6];
   	int i;
-	  int strt;
+	  int start;
   	int end;
   	int temp;
   	temp =0;
@@ -16,9 +16,9 @@ void main()
   	}
 	
   	printf(" enter starting and ending index\n");
-  	scanf("%d  %d",&strt,&end);
+  	scanf("%d  %d",&start,&end);
 	
-	  for(i=strt;i<=end;i++)
+	  for(i=start;i<=end;i++)
 	  {
 		    temp=temp+a[i];
 	  }
