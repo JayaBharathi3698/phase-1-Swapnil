@@ -120,12 +120,11 @@
 -------------------------------------------------------------------------------------
 
 ## 👉 Day 16 :- 
+* Learned about [MICROPROCESSORS](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Informative_videos/Microprocessor.md)
 
 ---------------------------------------------------------------
 
-## Day 17 :- 
-
-----------------------------------------------------
+## 👉 Day 17 :- 
 
 -----------------------------------------------------------
 ## 👉 Day 18 :- 
@@ -144,28 +143,43 @@
 
 ------------------------------------------------------------
 
-## Day 21 :- 
+## 👉 Day 21 :- 
+* Watched and documented movie [THE FOUNDER](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/The%20Founder.md)
 
 -----------------------------------------------------
 
-## Day 22 :- 
+## 👉 Day 22 :- 
+* Algomagnet [Session](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_Arijit_Senchaudhuri.md) with [ARIJTI SENCHAUDHURI](https://www.linkedin.com/in/arijit-senchaudhuri-522b2015)
 
 -------------------------------------------
 
-## Day 23 :- 
+## 👉 Day 23 :- 
 * [Pointer Arithemetic](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Pointer_Arithemetic.md)
-* learning from movie [Steve Jobs](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/Steve_Jobs.md)
+* Learning from movie [Steve Jobs](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/Steve_Jobs.md)
 
 ------------------------------------------------------
 
-## Day 24 :- 
+## 👉 Day 24 :- 
 
 * Learnt about [arrays declarationand passing values to an array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/array.c).
 * Learned how to find [Maximum and minimum in an array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/max_min_array.c).
 
 -------------------------------------------
 
-## Day 25 :- 
-* Learned sorting of array by different methods.
+## 👉 Day 25 :- 
+* Learned [sorting of arrays](https://github.com/cleanhand/phase-1-Swapnil/tree/main/sorting) by different methods.
 
 -------------------------------------------------
+
+## 👉 Day 26 :- 
+* Difference between [1D & 2D array](https://www.geeksforgeeks.org/difference-between-one-dimensional-and-two-dimensional-array/)
+
+-------------------------------------------------------------
+
+## 👉 Day 27 :- 
+
+---------------------------------------------------------------
+
+## 👉 Day 28 :- 
+
+---------------------------------------------------------------
