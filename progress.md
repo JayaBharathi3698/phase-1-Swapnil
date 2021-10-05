@@ -177,6 +177,8 @@
 -------------------------------------------------------------
 
 ## 👉 Day 27 :- 
+* Algomagnet [Session](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_someone.md)
+
 
 ---------------------------------------------------------------
 
