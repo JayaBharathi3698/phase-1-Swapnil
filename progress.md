@@ -186,3 +186,6 @@
 * Read about [malloc(),calloc(),free(),realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
 
 ---------------------------------------------------------------
+
+## 👉 Day 29 :- 
+* read about [Structure Declaration](https://en.cppreference.com/w/c/language/struct)
