@@ -188,4 +188,11 @@
 ---------------------------------------------------------------
 
 ## 👉 Day 29 :- 
-* read about [Structure Declaration](https://en.cppreference.com/w/c/language/struct)
+* Read about [Structure Declaration](https://en.cppreference.com/w/c/language/struct)
+
+------------------------------------------------------------------------
+
+## 👉 Day 30 :- 
+* [Strings in C](https://www.geeksforgeeks.org/strings-in-c-2/)
+
+----------------------------------------------------------------------
