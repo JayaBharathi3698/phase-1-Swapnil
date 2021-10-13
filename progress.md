@@ -196,3 +196,8 @@
 * [Strings in C](https://www.geeksforgeeks.org/strings-in-c-2/)
 
 ----------------------------------------------------------------------
+
+## 👉 Day 31 :- 
+* [Why string is null terminated ?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/String_null_terminated.md)
+
+------------------------------------------------------------------------
