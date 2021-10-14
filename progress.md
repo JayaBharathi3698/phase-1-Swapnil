@@ -201,3 +201,16 @@
 * [Why string is null terminated ?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/String_null_terminated.md)
 
 ------------------------------------------------------------------------
+
+## 👉 Day 32 :- 
+* [Bajarne Stroustrup](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Computer_Scientist/Bjarne_Stroustrup.md)
+
+------------------------------------------------------------------------------
+
+## 👉 Day 33 :- 
+* Revision of [pointers](https://www.geeksforgeeks.org/pointers-in-c-and-c-set-1-introduction-arithmetic-and-array/)
+
+------------------------------------------------------------------------------
+
+## 👉 Day 34 :- 
+* Algomagnet [Session](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_RAJAT_Sir.md) with Rajat Sir .
