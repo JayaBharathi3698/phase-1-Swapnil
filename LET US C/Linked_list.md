@@ -4,7 +4,7 @@ A linked list is a linear data structure, in which the elements are not stored a
 
 Like arrays, Linked List is a linear data structure. Unlike arrays, linked list elements are not stored at a contiguous location; the elements are linked using pointers.
 
-![image](https://user-images.githubusercontent.com/85029234/137493705-7e01de07-a6a7-4cdc-81a6-214471e19b1d.png)
+<img width="800" alt="img" src="https://user-images.githubusercontent.com/85029234/137493705-7e01de07-a6a7-4cdc-81a6-214471e19b1d.png">
 
 ## Linked List v/s Array
 
