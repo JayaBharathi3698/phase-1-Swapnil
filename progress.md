@@ -217,10 +217,20 @@
 
 --------------------------------------------------------
 
-## Day 35 :- 
+## 👉 Day 35 :- 
 * Started [Linked-List](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Linked_list.md)
 
 ----------------------------------------------------------
 
-## Day 36 :- 
+## 👉  Day 36 :- 
 * Created Linked list [program](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/dynamic_linklist.c) 
+
+---------------------------------------------------------------------------
+
+## 👉 Day 37 :- 
+* [Insertion](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/) in Linked-List
+
+---------------------------------------------------------------------------------
+
+## 👉 Day 38 :- 
+* What is [foo or foobar](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Foobar.md) ?
