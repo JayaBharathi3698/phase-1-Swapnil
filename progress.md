@@ -183,7 +183,7 @@
 ---------------------------------------------------------------
 
 ## 👉 Day 28 :- 
-* Read about [malloc(),calloc(),free(),realloc()](https://www.geeksforgeeks.org/dynamic-memory-allocation-in-c-using-malloc-calloc-free-and-realloc/)
+* Read about [malloc(),calloc(),free(),realloc()](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Dynamic_memory_allocation.md)
 
 ---------------------------------------------------------------
 
