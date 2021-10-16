@@ -214,3 +214,13 @@
 
 ## 👉 Day 34 :- 
 * Algomagnet [Session](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_RAJAT_Sir.md) with Rajat Sir .
+
+--------------------------------------------------------
+
+## Day 35 :- 
+* Started [Linked-List](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Linked_list.md)
+
+----------------------------------------------------------
+
+## Day 36 :- 
+* Created Linked list [program](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/dynamic_linklist.c) 

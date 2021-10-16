@@ -20,6 +20,17 @@ void insert(int val)
 
 }
 
+void display()
+{
+    struct node *run;
+    run=head;
+    while(run!=NULL)
+    {
+        printf("\n%d\n",run->x);
+        run=run->next;
+    }
+}
+
 void main()
 {
     char c;
@@ -30,13 +41,8 @@ void main()
         scanf("%d",&i);
         insert(i);
         printf("\n Do you want to add more press y or n\n");
-        scanf("%c",&c);
+        scanf(" %c",&c);
     }
-    struct node *run;
-    run=head;
-    while(run!=NULL)
-    {
-        printf("\n%d\n",run->x);
-        run=run->next;
-    }
+    display();
+    
 }
