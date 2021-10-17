@@ -234,3 +234,20 @@
 
 ## 👉 Day 38 :- 
 * What is [foo or foobar](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Foobar.md) ?
+
+---------------------------------------------------------------------------
+
+## 👉 Day 39 :- 
+* [Cutting](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/cut.c) of string.
+
+------------------------------------------------------------------------
+
+## 👉 Day 40 :- 
+* [Sum of array using pointer](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/sum_of%20_array_with_pointer.c)
+
+-----------------------------------------------------------------------------
+
+## 👉 Day 41 :- 
+* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
+
+----------------------------------------------------------------------
