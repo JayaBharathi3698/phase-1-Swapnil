@@ -266,16 +266,26 @@
 --------------------------------------------------------------------------------
 
 ## 👉 Day 49 :- 
+* Algomagnet Session with [Gaurav Sir](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_Gourav_Sir.md) SDE-2 at Amazon.
+
+-----------------------------------------------------------------------------
+
+## 👉 Day 50 :- 
+* Ecell Meeting with [Sumit Kumar Sharma Sir](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/ECELL_SESSION.md).
+
+-------------------------------------------------------------------------
+
+## 👉 Day 51 :- 
 * Program to take string values from [array to linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray.c).
 
 ------------------------------------------------------------------------------------
 
-## 👉 Day 50 :- 
+## 👉 Day 52 :- 
 * Yesterdays program using [loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray_using_loop.c) concept.
 
 ----------------------------------------------------------------------------
 
-## 👉 Day 51 :-
+## 👉 Day 53 :-
 * Palindrome in Linked-List.
 
 --------------------------------------------------------------------------------------------
