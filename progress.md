@@ -11,13 +11,11 @@
 ## 👉 Day 2 :-
 
 * Advantage of [hexadecimal system](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/hexadecimal.md) over any other system.
-
-
-* [Relevance of 1's and 2's complement.](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Relevance%20of%201's%20complement%20%26%202's%20complement.md)
+* Attended [Toastmaster Meeting](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Toastmaster-metting-review.md)
 
 ---------------------------------------------------------------------------------------
 ## 👉 Day 3 :-
-
+* [Relevance of 1's and 2's complement.](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Googling%20stuff/Relevance%20of%201's%20complement%20%26%202's%20complement.md)
 * Basics of Let Us C   [CHAPTER-1](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter1.md)
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -118,6 +116,7 @@
 ---------------------------------------------------------------
 
 ## 👉 Day 19 :- 
+* Watched and documented movie [THE FOUNDER](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/The%20Founder.md)
 
 -----------------------------------------------------------
 ## 👉 Day 20 :- 
@@ -132,7 +131,7 @@
 ------------------------------------------------------------------
 ## 👉 Day 22 :- 
 * Learned about [MICROPROCESSORS](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Informative_videos/Microprocessor.md)
-* Watched and documented movie [THE FOUNDER](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Movie_review/The%20Founder.md)
+* Algomagnet Session with [Suman Deb sir](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Algomagnet_session_with_Suman_Deb_Sir.md)
 
 ------------------------------------------------------------
 
