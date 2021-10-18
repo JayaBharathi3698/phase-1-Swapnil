@@ -261,13 +261,13 @@
 
 ## 👉 Day 47 :- 
 * [Sum of array using pointer](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/sum_of%20_array_with_pointer.c)
-* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
-* Program to take string values from [array to linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray.c).
-* Yesterdays program using [loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray_using_loop.c) concept.
 
 --------------------------------------------------------------------------------
 
 ## 👉 Day 48 :- 
+* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
+* Program to take string values from [array to linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray.c).
+* Yesterdays program using [loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray_using_loop.c) concept.
 * Palindrome in Linked-List.
 
 --------------------------------------------------------------------------------------------
