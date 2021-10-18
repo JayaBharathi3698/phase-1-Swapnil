@@ -35,9 +35,7 @@
 ## 👉 Day 6 :-
 
 * [CHAPTER-4 (Switch case)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/LET%20US%20C/Chapter4.md)
-
----------------------------------------------------------------------------------------------------------
-👉 Movie review [(The Founder)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Movie_review/The%20Founder.md)
+* Movie review [(The Founder)](https://github.com/cleanhand/phase-1-SWAPNIL-7-MSD/blob/main/Movie_review/The%20Founder.md)
 
 ----------------------------------------------------------------------------------------------------------
 
@@ -50,8 +48,7 @@
 ## 👉 Day 8 :-
 
 * Read about [Open Source](https://opensource.guide/).
-
- 😁  Attended 4th Algomagnet meeting.
+* Attended 4th Algomagnet meeting.
 
 ------------------------------------
 
@@ -241,33 +238,45 @@
 -----------------------------------------------------------------------------
 
 ## 👉 Day 43 :- 
+* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
+
+-----------------------------------------------------------------------
+
+## 👉 Day 44 :- 
 * [Insertion](https://www.geeksforgeeks.org/linked-list-set-2-inserting-a-node/) in Linked-List
 
 ----------------------------------------------------------------------
 
-## 👉 Day 44 :- 
+## 👉 Day 45 :- 
 * What is [foo or foobar](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Foobar.md) ?
 
 ----------------------------------------------------------------------
-## 👉 Day 45 :- 
+## 👉 Day 46 :- 
 * Program for [insertion](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist.c) in Linked-List.
 
 -----------------------------------------------------------------------
 
-## 👉 Day 46 :- 
+## 👉 Day 47 :- 
 * [Cutting](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/cut.c) of string.
 
 --------------------------------------------------------------------------
 
-## 👉 Day 47 :- 
+## 👉 Day 48 :- 
 * [Sum of array using pointer](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/sum_of%20_array_with_pointer.c)
 
 --------------------------------------------------------------------------------
 
-## 👉 Day 48 :- 
-* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
+## 👉 Day 49 :- 
 * Program to take string values from [array to linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray.c).
+
+------------------------------------------------------------------------------------
+
+## 👉 Day 50 :- 
 * Yesterdays program using [loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/linklist%2Barray_using_loop.c) concept.
+
+----------------------------------------------------------------------------
+
+## 👉 Day 51 :-
 * Palindrome in Linked-List.
 
 --------------------------------------------------------------------------------------------
