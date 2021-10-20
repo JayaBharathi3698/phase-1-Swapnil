@@ -2,7 +2,7 @@
 
 1. Git and GitHub should be learnt.
  
-2. Told abou few Major Open Source Projects
+2. Told about few Major Open Source Projects
 
  * [Outreachy](https://www.outreachy.org/)
  * [Major League Hacking](https://mlh.io/)
