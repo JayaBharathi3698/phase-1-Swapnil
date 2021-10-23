@@ -212,7 +212,8 @@
 ----------------------------------------------------------
 
 ## 👉  Day 38 :- 
-* [Strings in C](https://www.geeksforgeeks.org/strings-in-c-2/)* [Why string is null terminated ?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/String_null_terminated.md)
+* [Strings in C](https://www.geeksforgeeks.org/strings-in-c-2/)
+* [Why string is null terminated ?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/String_null_terminated.md)
 
 ---------------------------------------------------------------------------
 
@@ -237,7 +238,7 @@
 -----------------------------------------------------------------------------
 
 ## 👉 Day 43 :- 
-* [Session with Ankur Bhiya on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
+* [Session with Ankur on GSOC](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Meetings/Session_with_Ankur_bhiya.md)
 
 -----------------------------------------------------------------------
 
@@ -306,4 +307,11 @@
 -------------------------------------------------------------------------------------------------
 
 ## 👉 Day 57 :- 
-* Doubly Linked-List.
+* [Doubly Linked-List](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/doubly_linked_list.c).
+
+-----------------------------------------------------------------------------------------------
+
+## 👉 Day 58 :- 
+* Reversal of Linked List.
+
+-----------------------------------------------------------------------------------------
