@@ -307,7 +307,7 @@
 -------------------------------------------------------------------------------------------------
 
 ## 👉 Day 57 :- 
-* [Doubly Linked-List](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/doubly_linked_list.c).
+* [Doubly Linked-List](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/doubly_linked_list.c)using loop.
 
 -----------------------------------------------------------------------------------------------
 
@@ -315,3 +315,8 @@
 * Reversal of Linked List.
 
 -----------------------------------------------------------------------------------------
+
+## 👉 Day 59 :- 
+* [Doubly linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/doubly_linked_list_with_function.c) using function .
+
+------------------------------------------------------------------------------------------
