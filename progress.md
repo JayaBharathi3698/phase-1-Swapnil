@@ -320,3 +320,13 @@
 * [Doubly linked list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/doubly_linked_list_with_function.c) using function .
 
 ------------------------------------------------------------------------------------------
+
+## 👉 Day 60 :- 
+* Insertion in Linked_list at [begnning and at end](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/link_list_beg_end.c)
+
+------------------------------------------------------------------------------------------
+
+## 👉 Day 61 :- 
+* Insertion in linked list at any [position](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/at_any_position.c)
+
+-------------------------------------------------------------------------------
