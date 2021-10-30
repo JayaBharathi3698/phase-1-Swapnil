@@ -330,3 +330,19 @@
 * Insertion in linked list at any [position](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/at_any_position.c)
 
 -------------------------------------------------------------------------------
+
+## 👉 Day 62 :- 
+* Weekend break.
+
+-----------------------------------------------------------------------
+
+## 👉 Day 63 :- 
+* Weekend break.
+
+---------------------------------------------------------------------------
+
+## 👉 Day 64 :- 
+* Hashing [1](https://www.youtube.com/watch?v=b4b8ktEV4Bg)
+* Hashing [2](https://www.youtube.com/watch?v=DMtFhACPnTY)
+
+----------------------------------------------------------------------------
