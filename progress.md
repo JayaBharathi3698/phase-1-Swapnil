@@ -346,3 +346,13 @@
 * Hashing [2](https://www.youtube.com/watch?v=DMtFhACPnTY)
 
 ----------------------------------------------------------------------------
+
+## 👉 Day 65 :- 
+* Done with registration process of [Hackotberfest 2021](https://hacktoberfest.digitalocean.com/).
+
+-------------------------------------------------------------------------------------------------------------
+
+## 👉 Day 66 :- 
+* [Assigning value to 2d array using loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/insert_number.c)
+
+------------------------------------------------------------------------------------
