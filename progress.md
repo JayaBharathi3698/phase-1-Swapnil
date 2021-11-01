@@ -356,3 +356,6 @@
 * [Assigning value to 2d array using loop](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/insert_number.c)
 
 ------------------------------------------------------------------------------------
+
+## 👉 Day 67 :-
+* [Spiral traversal](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/spiral.c) in 2d matrix/array
