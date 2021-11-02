@@ -358,4 +358,26 @@
 ------------------------------------------------------------------------------------
 
 ## 👉 Day 67 :-
-* [Spiral traversal](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/spiral.c) in 2d matrix/array
+* [Spiral traversal](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/spiral.c) in 2d matrix/array.
+
+------------------------------------------------------------------------------------
+
+## 👉 Day 68 :- 
+* Merged 4 PRs succesfully, [contribution to open source](https://github.com/cleanhand/phase-1-Swapnil/tree/main/Contributed_programs) for Hackoterfest. 
+
+----------------------------------------------------------------------------------
+
+## 👉 Day 69 :- 
+* Break.
+
+----------------------------------------------------------------------------
+
+## 👉 Day 70 :- 
+* Break .
+
+--------------------------------------------------------------------------------------
+
+## 👉 Day 71 :- 
+* [Bubble sort](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/bubble_sort_in_linked_list.c) in Linked-list
+
+--------------------------------------------------------------------------------------
