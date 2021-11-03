@@ -381,3 +381,13 @@
 * [Bubble sort](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/bubble_sort_in_linked_list.c) in Linked-list
 
 --------------------------------------------------------------------------------------
+
+## 👉 Day 72 :- 
+* [Bubble sort](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/bubble_sort.c) in array.
+
+----------------------------------------------------------------------------------------
+
+## 👉 Day 73 :- 
+* [Why indexing in array starts form 0?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Indexing_in_array.md)
+
+--------------------------------------------------------------------------
