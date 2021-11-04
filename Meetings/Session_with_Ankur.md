@@ -1,4 +1,4 @@
-# Session with Ankur Raj bhiya:
+# Session with Ankur Raj :
 
 1. Git and GitHub should be learnt.
  
