@@ -1,5 +1,10 @@
 # Why indexing in array starts from 0?
 
+--------------------------------------------------------------------------------------------------
+
+<p align="center"><img width="720" img height="200" alt="indices" src="https://user-images.githubusercontent.com/85029234/140276083-65e24a79-5378-4f47-ba4d-1a94e615c58f.png"/></p>
+
+
 Martin Richards, creator of the BCPL language (a precursor of C), designed arrays initiating at 0 as the natural position to start accessing the array contents in the language, since the value of a pointer p used as an address accesses the position p+0 in memory.
 
 The name of an array is essentially a pointer, a reference to a memory location, and so the expression array[n] refers to a memory location n-elements away from the starting element. This means that the index is used as an offset. The first element of the array is exactly contained in the memory location that array refers (0 elements away), so it should be denoted as array[0]. Most programming languages have been designed this way, so indexing from 0 is pretty much inherent to the language.
