@@ -401,3 +401,14 @@
 * Selection sort in [array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/selection_sort.c) and [linked-list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/selection_sorting.c)
 
 --------------------------------------------------------------------------------
+
+## 👉 Day 76 :- 
+* [Insertion sort](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/insertion_sort.c) in array.
+* Tried Insertion sort for linked list also but failed.
+
+-------------------------------------------------------------------------------------------
+
+## 👉 Day 77 :- 
+* [Merge sort](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/merge_sort.c) in array.
+
+--------------------------------------------------------------------------------------
