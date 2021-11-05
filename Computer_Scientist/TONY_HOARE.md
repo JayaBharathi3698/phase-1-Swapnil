@@ -13,6 +13,12 @@ He was involved with developing international standards in programming and infor
 
 He became the Professor of Computing Science at the Queen's University of Belfast in 1968, and in 1977 returned to Oxford as the Professor of Computing to lead the Programming Research Group in the Oxford University Computing Laboratory (now Department of Computer Science, University of Oxford), following the death of Christopher Strachey. He is now an Emeritus Professor there, and is also a principal researcher at Microsoft Research in Cambridge, England.
 
+## Achievements :- 
+
+> * Implementation of the first compiler for Algol 60 at Elliott Brothers
+> * Disaster recovery in the programming of Algol 68 – beyond specifications
+> * Development of Hoare Logic / Quicksort / Communicating Sequential Processes
+
 **Awards and honours**
 
 * Distinguished Fellow of the British Computer Society (1978)
