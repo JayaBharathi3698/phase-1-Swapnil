@@ -391,3 +391,13 @@
 * [Why indexing in array starts form 0?](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Googling%20stuff/Indexing_in_array.md)
 
 --------------------------------------------------------------------------
+
+## 👉 Day 74 :- 
+* [Typing speed](https://github.com/cleanhand/phase-1-Swapnil/blob/main/Typing_speed.md)
+
+------------------------------------------------------------------------
+
+## 👉 Day 75 :- 
+* Selection sort in [array](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Array/selection_sort.c) and [linked-list](https://github.com/cleanhand/phase-1-Swapnil/blob/main/LET%20US%20C/Programs/Linklist/selection_sorting.c)
+
+--------------------------------------------------------------------------------
